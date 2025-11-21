@@ -11,5 +11,5 @@
 ## Links de Linux
 * [GITHUB Preparación LPIC1] (https://github.com/martin2745/LPIC-1)
 * [GITHUB Preparación LPIC2] (https://github.com/SorianoTech/LPIC-2)
-* [GITHUB Material Linux de Martín Gil] (https://github.com/martin2745/curso-linux)
+* [GITHUB Material Linux y Scripting BASH de Martín Gil] (https://github.com/martin2745/curso-linux)
 
