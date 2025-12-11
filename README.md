@@ -4,7 +4,7 @@
 * [Sintaxis de Markdow] (https://www.markdownguide.org/cheat-sheet/)
 
 ## Links sobre GIT
-* [Referencia de uso de GIT de Jose Rey] (https://github.com/jreycid/apuntamentos-git)
+* [Tutorial de GIT de Jose Rey] (https://github.com/jreycid/apuntamentos-git)
 
 ## Links de contenidos de Ciclos Formativos
 * [GITHUB Material de ASIR-ISO] (https://github.com/alexbs01/ImplantacionDeSistemasOperativos)
