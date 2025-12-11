@@ -7,6 +7,8 @@
 ## Links sobre GIT
 * [GITHUB Tutorial de GIT de Jose Rey] (https://github.com/jreycid/apuntamentos-git)
 * [GITHUB Curso para aprender GIT de Brais Moure] (https://github.com/mouredev/hello-git)
+* [GITHUB Actividades con GIT de José Antonio Muñoz Jiménez] (https://github.com/jamj2000/Actividades-GIT)
+
 
 ## Links de contenidos de Ciclos Formativos
 * [GITHUB Material de ASIR-ISO] (https://github.com/alexbs01/ImplantacionDeSistemasOperativos)
