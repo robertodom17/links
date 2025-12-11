@@ -16,6 +16,7 @@
 * [GITHUB Material de todos los módulos de DAW] (https://github.com/statickidz/TemarioDAW)
 * [GITHUB Material de DIW de DAW de José Antonio Muñoz Jiménez] (https://github.com/jamj2000/DIW)
 * [GITHUB Material de módulos de DAM] (https://github.com/jamj2000/DAM)
+* [GITHUB Libro de PAR de ASIR de José Antonio Muñoz Jiménez] (https://github.com/jamj2000/PlanificacionAdministracionRedes)
 
 ## Links de Linux
 * [GITHUB Preparación LPIC1] (https://github.com/martin2745/LPIC-1)
