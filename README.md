@@ -2,6 +2,7 @@
 
 ## Links sobre Markdown
 * [Sintaxis de Markdow] (https://www.markdownguide.org/cheat-sheet/)
+* [Tutorial de Markdow de Jose Rey] (https://github.com/jreycid/apuntamentos-markdown)
 
 ## Links sobre GIT
 * [Tutorial de GIT de Jose Rey] (https://github.com/jreycid/apuntamentos-git)
