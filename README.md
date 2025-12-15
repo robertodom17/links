@@ -26,3 +26,8 @@
 
 ## Links de Docker
 * [GITHUB Curso de Docker de José Antonio Muñoz Jiménez] (https://github.com/jamj2000)
+
+## Automatización de conversión entre tipos de ficheros para generar contenidos
+* [GITHUB Nanonets/Docstrange] (https://github.com/NanoNets/docstrange)
+* [Nanonets/Docstrange ON line] (https://docstrange.nanonets.com/?output_type=markdown)
+
