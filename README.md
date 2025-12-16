@@ -32,5 +32,10 @@
 * [Nanonets/Docstrange ON line] (https://docstrange.nanonets.com/?output_type=markdown)
 * [ASPOSE Convertidor Online a markdown] (https://products.aspose.app/words/conversion/word-to-md)
 
+## Links de licencias de Software
+* [GITHUB Licencias de VMWARE ESXi] (https://github.com/hegdepavankumar/VMware-ESXi-License-Keys)
+* [GITHUB Licencias de VMWARE Workstation 17] (https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys)
+
+
   
 
